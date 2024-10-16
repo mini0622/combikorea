@@ -1,0 +1,9 @@
+header,footer{
+    width: 100%;
+}
+
+.section_wrap{
+    width: 1289px;
+    margin: 0 auto;
+   /*  background-color: lavender; */
+}
