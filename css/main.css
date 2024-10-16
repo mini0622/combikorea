@@ -286,6 +286,7 @@ footer{
     font-size: 15px;
     padding: 0 130px;
     color: #5E5E5E;
+    font-weight: 300;
 }
 .lt_footer p:nth-child(1){
     margin-bottom: 41px;
